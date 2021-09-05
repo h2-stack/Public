@@ -1,2 +1,0 @@
-.
-add to target list
